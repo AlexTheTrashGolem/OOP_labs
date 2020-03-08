@@ -1,0 +1,5 @@
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_labs\OP_labs\obj\Debug\OP_labs.csprojResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_labs\OP_labs\bin\Debug\OP_labs.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_labs\OP_labs\bin\Debug\OP_labs.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_labs\OP_labs\obj\Debug\OP_labs.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_labs\OP_labs\obj\Debug\OP_labs.pdb

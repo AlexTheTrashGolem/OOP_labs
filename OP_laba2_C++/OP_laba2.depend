@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583315854 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba2\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<vector>
+

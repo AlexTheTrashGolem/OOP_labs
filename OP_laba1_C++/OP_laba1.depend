@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1582052844 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba1\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	<stdlib.h>
+
+1582660897 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba1_c++\main.cpp
+	<iostream>
+	<string>
+
