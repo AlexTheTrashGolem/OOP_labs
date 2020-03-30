@@ -1,0 +1,5 @@
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba4_sharp\OP_laba4_sharp\obj\Debug\OP_laba4_sharp.csprojResolveAssemblyReference.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba4_sharp\OP_laba4_sharp\bin\Debug\OP_laba4_sharp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba4_sharp\OP_laba4_sharp\bin\Debug\OP_laba4_sharp.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba4_sharp\OP_laba4_sharp\obj\Debug\OP_laba4_sharp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba4_sharp\OP_laba4_sharp\obj\Debug\OP_laba4_sharp.pdb

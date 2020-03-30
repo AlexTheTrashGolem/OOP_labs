@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585597189 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba4_c++\main.cpp
+	<iostream>
+	<cmath>
+	<PolarVector.h>
+
+1585597099 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba4_c++\src\polarvector.cpp
+	"PolarVector.h"
+
+1585596136 c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba4_c++\include\polarvector.h
+	<cmath>
+	<iostream>
+
