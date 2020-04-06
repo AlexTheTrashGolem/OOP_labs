@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1586117257 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\main.cpp
+	<iostream>
+	<Segment.h>
+	<Dot.h>
+
+1586117012 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\src\dot.cpp
+	"Dot.h"
+
+1586114805 c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\include\dot.h
+
+1586114920 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\src\line.cpp
+	"Line.h"
+
+1586114886 c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\include\line.h
+	<cmath>
+	<Dot.h>
+
+1586117583 source:c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\src\segment.cpp
+	"Segment.h"
+
+1586117403 c:\users\alex\appdata\local\atom\projects\Плюсы,Шарпы\op_laba5_c++\include\segment.h
+	<Line.h>
+	<iostream>
+
