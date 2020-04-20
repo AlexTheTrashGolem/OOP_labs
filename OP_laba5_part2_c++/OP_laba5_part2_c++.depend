@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba5_part2_c++\main.cpp
+	<iostream>
+
+1587410376 source:c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba5_part2_c++\src\parentstring.cpp
+	"ParentString.h"
+
+1587410761 c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba5_part2_c++\include\parentstring.h
+	<cctype>
+	<stdexcept>
+	<algorithm>
+
+1587410772 source:c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba5_part2_c++\src\lowercaseletters.cpp
+	"LowerCaseLetters.h"
+
+1587410257 c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba5_part2_c++\include\lowercaseletters.h
+	<ParentString.h>
+
