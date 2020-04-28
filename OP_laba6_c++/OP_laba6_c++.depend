@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588076803 source:c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba6_c++\src\expression.cpp
+	"Expression.h"
+	<math.h>
+
+1588075511 c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba6_c++\include\expression.h
+
+1588076612 source:c:\users\alex\appdata\local\atom\projects\графика_лабы\op_laba6_c++\main.cpp
+	<iostream>
+	"Expression.h"
+
