@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Alex\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Alex\.Rider2019.3\system\resharper-host\Local\Transient\ReSharperHost\v193\SolutionCaches\_OP_laba8_sharp.-1055621430.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba8_sharp" t="IncludeFlat">
+      <e p="OP_laba8_sharp" t="IncludeRecursive">
+        <e p="ActionHandlerArgs.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Car.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="OP_laba8_sharp.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Task.cs" t="Include" />
+      </e>
+      <e p="OP_laba8_sharp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
