@@ -6,7 +6,7 @@ namespace OP_laba8_sharp
     {
         public static void Main(string[] args)
         {
-            var arr = new int[]{3, 4, 6, 7};
+            var arr = new int[]{53, 44, 36, 97};
             Task.ArrayOperation sortByAscending = Task.SortByAscending;
             sortByAscending += Task.PrintArray;
             sortByAscending(arr);
