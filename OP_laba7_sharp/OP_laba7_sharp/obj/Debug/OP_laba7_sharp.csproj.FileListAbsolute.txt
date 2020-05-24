@@ -1,0 +1,6 @@
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\bin\Debug\OP_laba7_sharp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\bin\Debug\OP_laba7_sharp.pdb
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\obj\Debug\OP_laba7_sharp.csprojAssemblyReference.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\obj\Debug\OP_laba7_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\obj\Debug\OP_laba7_sharp.exe
+C:\Users\Alex\AppData\Local\atom\Projects\Плюсы,Шарпы\OP_laba7_sharp\OP_laba7_sharp\obj\Debug\OP_laba7_sharp.pdb
